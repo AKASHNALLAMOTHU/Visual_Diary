@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327504978710",
+    "project_id": "visualdiary-5f8bb",
+    "storage_bucket": "visualdiary-5f8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327504978710:android:57935e6d1081d15ac42637",
+        "android_client_info": {
+          "package_name": "com.example.visual_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LRATzRaK7-1JQjhHrHLAmIkJoinazZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
